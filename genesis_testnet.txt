@@ -1,0 +1,6 @@
+Calculating testnet genesis block...
+Genesis block found!
+nonce: 245457
+time: 1725035728
+blockhash: 0000095b594d7a3218dc80fd86fc72de1cc1768f788774f56062ca99e7d2ff9b
+merklehash: 5413f4a46e53be1816c434cbd4521239379f9c4010e879c5a9de1764edd3a172

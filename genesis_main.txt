@@ -1,0 +1,6 @@
+Calculating main genesis block...
+Genesis block found!
+nonce: 306058
+time: 1725035723
+blockhash: 00000cd73ed5cba8d623bd52320b7bda93bb92599d8e26db667d23f76b98f2c5
+merklehash: 5413f4a46e53be1816c434cbd4521239379f9c4010e879c5a9de1764edd3a172

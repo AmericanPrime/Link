@@ -1,0 +1,6 @@
+Calculating regression block...
+Genesis block found!
+nonce: 4
+time: 1725035733
+blockhash: 1b172e61964d91c95fc8318279a9d2839d00891e1ab144c00c61d3e7549222ae
+merklehash: 5413f4a46e53be1816c434cbd4521239379f9c4010e879c5a9de1764edd3a172
