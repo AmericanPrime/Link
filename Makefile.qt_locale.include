@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/linkusd_ar.ts \
+  qt/locale/linkusd_bg.ts \
+  qt/locale/linkusd_de.ts \
+  qt/locale/linkusd_en.ts \
+  qt/locale/linkusd_es.ts \
+  qt/locale/linkusd_fi.ts \
+  qt/locale/linkusd_fr.ts \
+  qt/locale/linkusd_it.ts \
+  qt/locale/linkusd_ja.ts \
+  qt/locale/linkusd_ko.ts \
+  qt/locale/linkusd_nl.ts \
+  qt/locale/linkusd_pl.ts \
+  qt/locale/linkusd_pt.ts \
+  qt/locale/linkusd_ro.ts \
+  qt/locale/linkusd_ru.ts \
+  qt/locale/linkusd_sk.ts \
+  qt/locale/linkusd_th.ts \
+  qt/locale/linkusd_tr.ts \
+  qt/locale/linkusd_vi.ts \
+  qt/locale/linkusd_zh_CN.ts \
+  qt/locale/linkusd_zh_TW.ts
